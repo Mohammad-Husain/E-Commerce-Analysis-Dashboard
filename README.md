@@ -72,7 +72,7 @@ The Executive Overview provides a consolidated view of the overall e-commerce bu
 
 ### Dashboard Preview
 
-![Executive Overview](screenshots/Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 ---
 
@@ -110,7 +110,7 @@ This page focuses on customer behavior, distribution, and review activity.
 
 ### Dashboard Preview
 
-![Customer Analysis](screenshots/Customers_Analysis.png)
+![Customer Analysis](Screenshots/Customers_Analysis.png)
 
 ---
 
@@ -129,7 +129,7 @@ This page analyzes product categories and seller performance.
 
 ### Dashboard Preview
 
-![Product and Seller Analysis](screenshots/Products%20&%20Sellers_Analysis.png)
+![Product and Seller Analysis](Screenshots/Products%20&%20Sellers_Analysis.png)
 
 ---
 
@@ -148,7 +148,7 @@ This page focuses on order fulfillment and delivery performance.
 
 ### Dashboard Preview
 
-![Delivery Analysis](screenshots/Delivery_Analysis.png)
+![Delivery Analysis](Screenshots/Delivery_Analysis.png)
 
 ---
 
